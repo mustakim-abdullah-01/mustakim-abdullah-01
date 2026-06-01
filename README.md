@@ -32,15 +32,15 @@ I am a passionate **Web Developer** from Bangladesh, currently pursuing my **Dip
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustakim-abdullah-milkee&theme=tokyonight&background=0d1117&border=30363d" alt="Mustakim's Streak Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustakim-abdullah-01&theme=tokyonight&background=0d1117&border=30363d" alt="Mustakim's Streak Stats" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustakim-abdullah-milkee&theme=github-dark&bg_color=0d1117&hide_border=true" alt="Mustakim's Activity Graph" width="85%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustakim-abdullah-01&theme=github-dark&bg_color=0d1117&hide_border=true" alt="Mustakim's Activity Graph" width="85%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mustakim-abdullah-milkee&label=Profile%20Views&color=0077B5&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mustakim-abdullah-01&label=Profile%20Views&color=0077B5&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
