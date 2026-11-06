@@ -1,7 +1,7 @@
 # Hi there, I'm Mustakim Abdullah 👋
 
 
-- 🌱 I’m currently learning ... NextJs
+- 🌱 I’m currently learning ... Next.JS
 - 😄 Pronouns: ... He / him
 - ⚡ Fun fact: ... I can solve a Rubik's Cube in under two minutes
 
